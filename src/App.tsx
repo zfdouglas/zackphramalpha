@@ -21,6 +21,9 @@ function App() {
           {result}
         </div>
       ) : null}
+      <footer className="App-footer">
+        <a href="url"> Click Me for Documentation</a>
+      </footer>
     </div>
   );
 }

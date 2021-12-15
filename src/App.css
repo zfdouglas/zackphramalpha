@@ -55,6 +55,7 @@
 
 .Calculator-Submit:hover {
   background-color: #37435a;
+  cursor: pointer;
 }
 
 .App-results {
@@ -67,4 +68,14 @@
   border-radius: 15px;
   margin: 20px auto;
   height: 20vh;
+}
+
+.App-footer {
+  margin-top: 1rem;
+  padding: 1rem;
+  background-color: #61dafb;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  width: 100%;
 }
