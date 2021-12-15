@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/zackphramalpha/static/css/main.c7832bb5.chunk.css",
+    "main.js": "/zackphramalpha/static/js/main.ee4c9e50.chunk.js",
+    "main.js.map": "/zackphramalpha/static/js/main.ee4c9e50.chunk.js.map",
+    "runtime-main.js": "/zackphramalpha/static/js/runtime-main.01166d7f.js",
+    "runtime-main.js.map": "/zackphramalpha/static/js/runtime-main.01166d7f.js.map",
+    "static/js/2.aac5ca25.chunk.js": "/zackphramalpha/static/js/2.aac5ca25.chunk.js",
+    "static/js/2.aac5ca25.chunk.js.map": "/zackphramalpha/static/js/2.aac5ca25.chunk.js.map",
+    "static/js/3.c7f1ad20.chunk.js": "/zackphramalpha/static/js/3.c7f1ad20.chunk.js",
+    "static/js/3.c7f1ad20.chunk.js.map": "/zackphramalpha/static/js/3.c7f1ad20.chunk.js.map",
+    "index.html": "/zackphramalpha/index.html",
+    "static/css/main.c7832bb5.chunk.css.map": "/zackphramalpha/static/css/main.c7832bb5.chunk.css.map",
+    "static/js/2.aac5ca25.chunk.js.LICENSE.txt": "/zackphramalpha/static/js/2.aac5ca25.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/zackphramalpha/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01166d7f.js",
+    "static/js/2.aac5ca25.chunk.js",
+    "static/css/main.c7832bb5.chunk.css",
+    "static/js/main.ee4c9e50.chunk.js"
+  ]
+}
