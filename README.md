@@ -25,5 +25,7 @@ closed parentheses should be allowed, because that functionality was not built
 out- parentheses are currently not supported. Parentheses will be added on next
 iteration when the functionality for parentheses is present.
 
-Planned Future Work: Patch Bug Where Negative Numbers with Decimals Are Not
-Allowed Include Parentheses Handling
+Planned Future Work: 
+1. Patch Bug Where Negative Numbers with Decimals Are Not
+Allowed 
+2. Include Parentheses Handling
