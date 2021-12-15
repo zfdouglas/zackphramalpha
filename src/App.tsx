@@ -22,7 +22,9 @@ function App() {
         </div>
       ) : null}
       <footer className="App-footer">
-        <a href="url"> Click Me for Documentation</a>
+        <a href="https://github.com/zfdouglas/zackphramalpha/blob/main/README.md">
+          Click Me for Documentation
+        </a>
       </footer>
     </div>
   );
